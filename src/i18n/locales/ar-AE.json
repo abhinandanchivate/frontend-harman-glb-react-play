@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "cart": "السلة",
+    "account": "حسابي"
+  },
+  "product": {
+    "title": "سماعات لاسلكية فاخرة",
+    "description": "استمتع بصوت نقي مع سماعاتنا اللاسلكية الفاخرة.",
+    "price": "السعر",
+    "stock": "{{count}} قطعة متوفرة",
+    "stock_plural": "{{count}} قطعة متوفرة",
+    "addToCart": "أضف إلى السلة",
+    "releaseDate": "تاريخ الإصدار: {{date}}",
+    "category": "الفئة: <strong>{{category}}</strong>",
+    "discount": "وفر {{percent}}٪!",
+    "deliveryTime": "التسليم المتوقع: {{days}} أيام عمل",
+    "deliveryTime_plural": "التسليم المتوقع: {{days}} أيام عمل"
+  },
+  "checkout": {
+    "title": "الدفع",
+    "subtotal": "المجموع الفرعي",
+    "tax": "الضريبة",
+    "shipping": "الشحن",
+    "total": "الإجمالي",
+    "itemCount": "{{count}} منتج",
+    "itemCount_plural": "{{count}} منتج"
+  },
+  "account": {
+    "welcome": "مرحباً بعودتك، {{name}}!",
+    "memberSince": "عضو منذ {{date}}",
+    "orderHistory": "لقد قمت بـ {{count}} طلب",
+    "orderHistory_plural": "لقد قمت بـ {{count}} طلب"
+  },
+  "gender": {
+    "unisex": "مثالي للجميع"
+  }
+}

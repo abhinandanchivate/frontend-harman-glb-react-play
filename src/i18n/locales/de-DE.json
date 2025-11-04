@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "products": "Produkte",
+    "cart": "Warenkorb",
+    "account": "Mein Konto"
+  },
+  "product": {
+    "title": "Premium-Funkkopfhörer",
+    "description": "Erleben Sie kristallklaren Sound mit unseren Premium-Funkkopfhörern.",
+    "price": "Preis",
+    "stock": "{{count}} Artikel verfügbar",
+    "stock_plural": "{{count}} Artikel verfügbar",
+    "addToCart": "In den Warenkorb",
+    "releaseDate": "Erscheinungsdatum: {{date}}",
+    "category": "Kategorie: <strong>{{category}}</strong>",
+    "discount": "Sparen Sie {{percent}}%!",
+    "deliveryTime": "Voraussichtliche Lieferung: {{days}} Werktag",
+    "deliveryTime_plural": "Voraussichtliche Lieferung: {{days}} Werktage"
+  },
+  "checkout": {
+    "title": "Zur Kasse",
+    "subtotal": "Zwischensumme",
+    "tax": "Steuer",
+    "shipping": "Versand",
+    "total": "Gesamt",
+    "itemCount": "{{count}} Artikel",
+    "itemCount_plural": "{{count}} Artikel"
+  },
+  "account": {
+    "welcome": "Willkommen zurück, {{name}}!",
+    "memberSince": "Mitglied seit {{date}}",
+    "orderHistory": "Sie haben {{count}} Bestellung aufgegeben",
+    "orderHistory_plural": "Sie haben {{count}} Bestellungen aufgegeben"
+  },
+  "gender": {
+    "unisex": "Perfekt für alle"
+  }
+}

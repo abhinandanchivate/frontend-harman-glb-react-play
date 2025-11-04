@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品",
+    "cart": "购物车",
+    "account": "我的账户"
+  },
+  "product": {
+    "title": "高级无线耳机",
+    "description": "体验我们高级无线耳机带来的清晰音质。",
+    "price": "价格",
+    "stock": "{{count}} 件可用",
+    "stock_plural": "{{count}} 件可用",
+    "addToCart": "加入购物车",
+    "releaseDate": "发布日期：{{date}}",
+    "category": "类别：<strong>{{category}}</strong>",
+    "discount": "节省 {{percent}}%！",
+    "deliveryTime": "预计送达：{{days}} 个工作日",
+    "deliveryTime_plural": "预计送达：{{days}} 个工作日"
+  },
+  "checkout": {
+    "title": "结账",
+    "subtotal": "小计",
+    "tax": "税费",
+    "shipping": "运费",
+    "total": "总计",
+    "itemCount": "{{count}} 件商品",
+    "itemCount_plural": "{{count}} 件商品"
+  },
+  "account": {
+    "welcome": "欢迎回来，{{name}}！",
+    "memberSince": "会员始于 {{date}}",
+    "orderHistory": "您已下了 {{count}} 个订单",
+    "orderHistory_plural": "您已下了 {{count}} 个订单"
+  },
+  "gender": {
+    "unisex": "适合所有人"
+  }
+}

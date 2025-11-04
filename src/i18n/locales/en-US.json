@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "account": "My Account"
+  },
+  "product": {
+    "title": "Premium Wireless Headphones",
+    "description": "Experience crystal-clear sound with our premium wireless headphones.",
+    "price": "Price",
+    "stock": "{{count}} item available",
+    "stock_plural": "{{count}} items available",
+    "addToCart": "Add to Cart",
+    "releaseDate": "Release Date: {{date}}",
+    "category": "Category: <strong>{{category}}</strong>",
+    "discount": "Save {{percent}}%!",
+    "deliveryTime": "Estimated delivery: {{days}} business day",
+    "deliveryTime_plural": "Estimated delivery: {{days}} business days"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "shipping": "Shipping",
+    "total": "Total",
+    "itemCount": "{{count}} item",
+    "itemCount_plural": "{{count}} items"
+  },
+  "account": {
+    "welcome": "Welcome back, {{name}}!",
+    "memberSince": "Member since {{date}}",
+    "orderHistory": "You have placed {{count}} order",
+    "orderHistory_plural": "You have placed {{count}} orders"
+  },
+  "gender": {
+    "unisex": "Perfect for everyone"
+  }
+}
